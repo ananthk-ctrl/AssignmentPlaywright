@@ -1,0 +1,9 @@
+{
+  "validInput": "agile",
+  "selectedSuggestion": "agile methodology",
+  "expectedSuggestions": [
+    "agile methodology",
+    "agile methodology process",
+    "agile methodology process testing"
+  ]
+}
