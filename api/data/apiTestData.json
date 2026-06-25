@@ -1,0 +1,5 @@
+{
+  "recordId": "98765",
+  "expectedLocalePattern": "^[a-z]{2}-[A-Z]{2}$",
+  "selectedText": "agile methodology"
+}
