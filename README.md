@@ -19,8 +19,13 @@ Replace the baseurl in config file with actual working url
 
 Installation & setup :
 git clone <repository-url>
+
 cd <project-folder>
+
 npm install
+
 npx playwright install@latest
+
 command for ui : npx playwright test ui/tests/autoComplete.spec.ts
+
 command for api : npx playwright test tests/api/tests/autocomplete-api.spec.ts
